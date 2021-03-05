@@ -81,9 +81,9 @@ if __name__ == '__main__':
 				print(hex_dig)
 				print("Uncommon")
 				print("")
-			# ~ elif('8888' in hex_dig):
-				# ~ print(string)
-				# ~ print(len(text))
-				# ~ print(hex_dig)
-				# ~ print("Common")
-				# ~ print("")
+			# elif('8888' in hex_dig):
+			# 	print(string)
+			# 	print(len(text))
+			# 	print(hex_dig)
+			# 	print("Common")
+			# 	print("")
